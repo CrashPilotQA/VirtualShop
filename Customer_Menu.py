@@ -30,7 +30,7 @@ class App:
         self.b_kiwi = tk.Button(root, text='Kiwi')
         self.b_kiwi.grid(row=1, column=4)
 
-        self.b_choco = tk.Button(root, text='Choco')
+        self.b_choco = tk.Button(root, text='Cake')
         self.b_choco.grid(row=2, column=0)
 
         self.b_wafer = tk.Button(root, text='Wafer')
