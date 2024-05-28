@@ -25,7 +25,7 @@ additional_items = [
     ("Wafer", 0.2),
     ("Bicky", 1.15),
     ("Choco", 2.2),
-    ("Fudge", 0.5)  # Adding fudge as it was missing from the initial list
+    ("Fudge", 0.5)
 ]
 
 # Insert the additional items and their prices into the database table
